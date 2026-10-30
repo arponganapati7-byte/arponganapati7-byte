@@ -1,3 +1,15 @@
+<!-- PROFILE BANNER -->
+
+<p align="center">
+  <img
+    src="./assets/profile-banner.png"
+    alt="Arpon Ganapati - Full Stack Developer"
+    width="100%"
+  />
+</p>
+
+<br/>
+
 # 👋 Hey there, I'm Arpon Ganapati!
 
 ### 💻 Frontend Developer | Full-Stack Developer in Progress | Tech Enthusiast
